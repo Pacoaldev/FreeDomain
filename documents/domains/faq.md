@@ -10,11 +10,13 @@ You can still create subdomains under your assigned domain via your DNS provider
 
 ------
 
-#### Which DNS platforms can I use this domain with?
+#### Which DNS services can I use this domain with?
 
-You can use it with virtually any DNS management system. Just input the provided NS records or your own into the DigitalPlat FreeDomain panel.
+You can use a DNS service that provides authoritative nameservers for your domain. Enter the assigned NS records in the DigitalPlat FreeDomain panel.
 
 You can also run your own DNS infrastructure if preferred.
+
+DigitalPlat does not endorse or guarantee any third-party DNS service. Review a service's features, security practices, availability, terms, and pricing before using it.
 
 ------
 
@@ -22,11 +24,3 @@ You can also run your own DNS infrastructure if preferred.
 
 It’s not required, but it’s always appreciated 😊
 Stars help more people discover the project and support its growth.
-
-------
-
-#### Cloudflare support?
-
-Yes, the platform is fully compatible with Cloudflare.
-
-You can use it with DNS, CDN, SSL, and other features as you would with any standard domain setup.
